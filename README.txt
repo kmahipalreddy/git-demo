@@ -2,9 +2,6 @@
 
 Demoing my first Git Repository.
 
-##Ipsum Below
+##Website content
 
-Mahi is the good man.
-
-
-Wonderful, excellent!!
+index.html
