@@ -2,10 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Adding contents to Website
 
-Mahipal Reddy is great.
-
-## Third change
-
-Mahipal is great again.
+Adding Mahi to index.html
